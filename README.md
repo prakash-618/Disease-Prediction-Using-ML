@@ -1,5 +1,3 @@
-# Disease-Prediction-Using-ML
-
 # Disease Prediction Using Machine Learning
 
 This project predicts diseases based on user symptoms using multiple machine learning models — **Support Vector Machine (SVM)**, **Naive Bayes**, and **Random Forest**.  
