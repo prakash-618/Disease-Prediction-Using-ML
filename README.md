@@ -8,7 +8,7 @@ The models are trained, evaluated, and combined using majority voting for robust
 ## Steps
 
 ### 1. Data Preprocessing
-- Encode categorical columns (e.g., gender)
+- Encode columns (e.g., Disease)
 - Fill missing values
 - Resample dataset to handle class imbalance
 - Flatten target variable if needed
